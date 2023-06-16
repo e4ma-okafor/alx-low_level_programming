@@ -10,11 +10,11 @@
 int main(void)
 
 {
-	int i;
+	int dit;
 
-	for (i = 0; i < 10; i++)
+	for (dit = 0; dit < 10; dit++)
 	{
-		printf("%d", i);
+		printf("%d", dit);
 	}
 	printf("\n");
 
