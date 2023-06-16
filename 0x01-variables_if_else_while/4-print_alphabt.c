@@ -20,7 +20,7 @@ int main(void)
 		if (lower != e && lower != q)
 			putchar(lower);
 	}
-	puchar('\n');
+	putchar('\n');
 
 	return (0);
 }
