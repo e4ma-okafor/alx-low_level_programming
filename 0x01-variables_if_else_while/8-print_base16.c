@@ -9,16 +9,16 @@
 
 int main(void)
 {
-	int d;
-	char low;
+	int num;
+	char lower;
 
-	for (d = '0'; d <= '9'; d++)
+	for (num = '0'; num <= '9'; num++)
 	{
-		putchar(d);
+		putchar(num);
 	}
-	for (low = 'a'; low <= 'f'; low++)
+	for (lower = 'a'; lower <= 'f'; lower++)
 	{
-		putchar(low);
+		putchar(lower);
 	}
 	putchar('\n');
 
