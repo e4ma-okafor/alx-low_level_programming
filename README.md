@@ -1,2 +1,2 @@
-A readme file for this repo
-It contains details of the repo
+0x07-pointers_arrays_strings
+A Readme file
