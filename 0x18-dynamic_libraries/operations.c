@@ -42,6 +42,23 @@ int sub(int a, int b)
 	return (a - b);
 }
 
+/**
+ * div - divides one number with another
+ * @a: numerator
+ * @b: denominator
+ *
+ * Return: the result
+ */
+int div(int a, int b)
+{
+	if (b != 0)
+	{
+		return (a / b);
+	} else 
+	{
+		return 0;
+	}
+}
 
 
 /**
